@@ -2,6 +2,11 @@
 
 A production-ready file upload system designed to handle large files (>1GB) with advanced features like chunking, resumability, retry logic, and crash recovery.
 
+<img width="784" height="552" alt="image" src="https://github.com/user-attachments/assets/de83acc4-36c1-4654-a3d9-fead880b848e" />
+<img width="822" height="1078" alt="image" src="https://github.com/user-attachments/assets/db88b03e-32a7-493a-8a3d-894bc9cf2bb8" />
+![Screenshot_8-1-2026_15330_localhost](https://github.com/user-attachments/assets/a577ce5b-19a9-4fa8-a65f-9f221f8dc657)
+<img width="787" height="1500" alt="image" src="https://github.com/user-attachments/assets/c2e6498a-ee21-4904-997d-e838f9d20d9b" />
+
 ## Tech Stack
 
 - **Frontend**: React.js with Vite
